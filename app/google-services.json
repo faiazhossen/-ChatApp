@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "961453225202",
+    "firebase_url": "https://chatapp-3e1d3.firebaseio.com",
+    "project_id": "chatapp-3e1d3",
+    "storage_bucket": "chatapp-3e1d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961453225202:android:5e4c6488b0eb76ff",
+        "android_client_info": {
+          "package_name": "com.example.faiaz.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961453225202-348hee8si1fo8js0eo0mn7evsl6v9mh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhhaJzloocarb-CbiWmzL-0LazBHhlbto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
